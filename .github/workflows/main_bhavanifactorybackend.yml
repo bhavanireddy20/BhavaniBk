@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'Bhavanifactorybackend'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3D904E8097124C54A2EC46FC87E318F3 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B35F4CB4828642F1AEBCB839FEA33009 }}
           package: '*.war'
